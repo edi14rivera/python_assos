@@ -1,9 +1,7 @@
 # -*- coding: UTF-8 -*-
-"""Les instructions de choix (2)
-   Trouver le minimum de deux nombres"""
-
+#Trouver le minimum de deux nombres
 # auteur : rf_it
-# programme principal -----------------------------------------------
+# programme principal 
 print("Donnez deux valeurs entieres :")
 x = int(input("n1 = "))
 y = int(input("n2 = "))
