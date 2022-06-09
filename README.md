@@ -11,10 +11,11 @@ Cela lui permet de répondre à presque toutes les demandes et de résoudre un l
 Bien que le langage soit accessible au débutant, le Python est un langage riche qui permet l’utilisation de plusieurs paradigmes de programmation, 
 dont la programmation orientée objet ainsi que la programmation fonctionnelle. Tout sera abordé en détail dans la formation.
 
-Variables
-Définition
+
+#Définition Variables
 Une variable est une zone de la mémoire de l’ordinateur dans laquelle une valeur est stockée. Aux yeux du programmeur, cette variable est définie par un nom, alors que pour l’ordinateur, il s’agit en fait d’une adresse, c’est-à-dire d’une zone particulière de la mémoire.
 En Python, la déclaration d’une variable et son initialisation (c’est-à-dire la première valeur que l’on va stocker dedans) se font en même temps. Pour vous en convaincre, testez les instructions suivantes après avoir lancé l’interpréteur :
+#exemple
 >>>x=2 
 >>> x
 2
