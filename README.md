@@ -12,20 +12,22 @@ Bien que le langage soit accessible au débutant, le Python est un langage riche
 dont la programmation orientée objet ainsi que la programmation fonctionnelle. Tout sera abordé en détail dans la formation.
 
 
-**Définition Variables
+# Définition Variables
 Une variable est une zone de la mémoire de l’ordinateur dans laquelle une valeur est stockée. Aux yeux du programmeur, cette variable est définie par un nom, alors que pour l’ordinateur, il s’agit en fait d’une adresse, c’est-à-dire d’une zone particulière de la mémoire.
 En Python, la déclaration d’une variable et son initialisation (c’est-à-dire la première valeur que l’on va stocker dedans) se font en même temps. Pour vous en convaincre, testez les instructions suivantes après avoir lancé l’interpréteur :
-//exemple
+*exemple*
 >>>x=2 
 >>> x
 2
-Les types de variables
+# Les types de variables
 Le type d’une variable correspond à la nature de celle-ci. Les trois principaux types dont nous aurons besoin dans un premier temps sont les entiers (integer ou int), les nombres décimaux que nous appellerons floats et les chaînes de caractères (string ou str).
 
+*exemple*
 >>> y=3.14
 >>> y
 3.14
 
+*exemple*
 >>> a = "bonjour"
 >>> a
 'bonjour '
